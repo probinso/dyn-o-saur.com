@@ -38,8 +38,7 @@ You may use this in any way, on any site, all we ask is that you please keep the
 	  <a href="https://github.com/probinso/resume/raw/master/resume.pdf" >
 	    
 	    <div id="resume">
-	      <a href="./resume/resume.pdf">
-		<img width="100px" src="https://raw.githubusercontent.com/probinso/resume/master/restmp.gif" style="border-style=none;"/>
+	      <a href="https://github.com/probinso/resume/raw/master/resume.pdf" >		<img width="100px" src="https://raw.githubusercontent.com/probinso/resume/master/restmp.gif" style="border-style=none;"/>
 	      </a>
 	      <br /><strong style="padding-left:30px;" >Resume</strong>
 	    </div>
